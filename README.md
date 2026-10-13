@@ -1,46 +1,39 @@
-# \# TaskTracker
+# TaskTracker
 
-# 
+Sistema de gerenciamento de tarefas desenvolvido em Python como parte do Bootcamp II — Ciência da Computação (UniCEUB).
 
-# Sistema de gerenciamento de tarefas desenvolvido em Python como parte do Bootcamp II — Ciência da Computação (UniCEUB).
+## Descrição
 
-# 
+O TaskTracker é uma aplicação de linha de comando (CLI) que permite ao usuário cadastrar, visualizar e gerenciar tarefas do dia a dia, com controle de prioridade e prazo.
 
-# \## Descrição
+## Funcionalidades
 
-# 
+- Cadastrar nova tarefa com título, descrição, prioridade e data limite
+- Validação de campos obrigatórios (título e prioridade)
+- Visualizar lista de tarefas cadastradas
+- Controle de status (Pendente / Concluída)
 
-# O TaskTracker é uma aplicação de linha de comando (CLI) que permite ao usuário cadastrar, visualizar e gerenciar tarefas do dia a dia, com controle de prioridade e prazo.
+## Tecnologias Utilizadas
 
-# 
+- Python 3
+- Git e GitHub
 
-# \## Funcionalidades
+## Como Executar
 
-# 
+1. Clone o repositório:
 
-# \- Cadastrar nova tarefa com título, descrição, prioridade e data limite
+   git clone https://github.com/giovannanaschaves-dot/tasktracker-projeto.git
 
-# \- Validação de campos obrigatórios (título e prioridade)
+2. Acesse a pasta do projeto:
 
-# \- Visualizar lista de tarefas cadastradas
+   cd tasktracker-projeto
 
-# \- Controle de status (Pendente / Concluída)
+3. Execute o programa:
 
-# 
+   python src/main.py
 
-# \## Tecnologias Utilizadas
+## Autora
 
-# 
-
-# \- Python 3
-
-# \- Git e GitHub
-
-# 
-
-# \## Como Executar
-
-# 
-
-# 1\. Clone o repositório:
+Giovanna Nascimento Chaves — giovanna.nc@sempreceub.com
+Bootcamp II | Ciência da Computação | Polo Brasília — Turma 2025/2
 
